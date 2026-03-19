@@ -111,7 +111,8 @@ The service is deployed on Google Cloud Run.
 Public Endpoint:
 
 ```
-https://YOUR_CLOUD_RUN_URL
+https://shiksha-ai-196385338585.us-central1.run.app
+
 ```
 
 ---
